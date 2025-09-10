@@ -8,8 +8,6 @@
 
 This project uses the following dataset for Skin Cancer Images:
 
-- [ISIC Challenge Dataset](https://challenge.isic-archive.com/data/#2026)
-
 ## Code
 
 You can find the implementation of SkinNet-8 in the following file:
