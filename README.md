@@ -4,15 +4,6 @@
 
 📧 **Contact**: For inquiries, you can reach out to us at <span style="color:blue">rhslion34@gmail.com</span>.
 
-## Research Paper
-
-📄 This code implements the paper published in a SCOPUS INDEX CONFERENCE, 2026 International Conference on Computer, 
-
-**Title**: [SkinNet-8: An Efficient CNN Architecture for Classifying Skin Cancer on an Imbalanced Dataset](https://ieeexplore.ieee.org/abstract/document/10101527)
-
-
-**DOI**: [10.1109/ECCE57851.2023.10101527](https://doi.org/10.1109/ECCE57851.2023.10101527)
-
 ## Dataset Availability
 
 This project uses the following dataset for Skin Cancer Images:
